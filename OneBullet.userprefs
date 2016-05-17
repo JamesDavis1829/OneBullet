@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\GitHub\2DGame\2DGame\Assets\Scripts\Player.cs">
+    <Files>
+      <File FileName="..\GitHub\2DGame\2DGame\Assets\Scripts\Player.cs" Line="19" Column="80" />
+      <File FileName="Assets\Scripts\playerController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
